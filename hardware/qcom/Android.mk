@@ -37,8 +37,7 @@ include device/sony/common/hardware/qcom/utils.mk
 
 include $(display-hal)/Android.mk
 include $(call all-makefiles-under,$(audio-hal))
-# 191228 VERIFY IF NEEDED, CREATE LOOP ERROR WHEN BUILDING
-#include $(call first-makefiles-under,$(ipa-hal))
+include $(call first-makefiles-under,$(ipa-hal))
 include $(call all-makefiles-under,$(gps-hal))
 include $(call all-makefiles-under,$(media-hal))
 endif
