@@ -36,6 +36,18 @@
     "revision":     "q-mr1"
   },
   {
+    "remote":       "omnirom",
+    "repository":   "android_hardware_sony_audio",
+    "target_path":  "hardware/sony/audio",
+    "revision":     "android-9.0"
+  },
+  {
+    "remote":       "omnirom",
+    "repository":   "android_hardware_sony_bootctrl",
+    "target_path":  "hardware/sony/bootctrl",
+    "revision":     "android-9.0"
+  },
+  {
     "remote":       "sony",
     "repository":   "hardware-qcom-display",
     "target_path":  "hardware/sony/display-sde",
@@ -72,28 +84,28 @@
     "revision":     "q-mr0"
   },
   {
-    "remote":       "omnirom",
-    "repository":   "android_hardware_sony_macaddrsetup",
+    "remote":       "sony",
+    "repository":   "macaddrsetup",
     "target_path":  "hardware/sony/macaddrsetup",
-    "revision":     "android-9.0"
+    "revision":     "q-mr1"
   },
   {
-    "remote":       "omnirom",
-    "repository":   "android_hardware_sony_qcrilam",
+    "remote":       "sony",
+    "repository":   "QcRilAm",
     "target_path":  "hardware/sony/qcrilam",
-    "revision":     "android-10.0"
+    "revision":     "q-mr1"
   },
   {
-    "remote":       "omnirom",
-    "repository":   "android_hardware_sony_timekeep",
+    "remote":       "sony",
+    "repository":   "timekeep",
     "target_path":  "hardware/sony/timekeep",
-    "revision":     "android-10.0"
+    "revision":     "q-mr1"
   },
   {
-    "remote":       "omnirom",
-    "repository":   "android_hardware_sony_transpower",
+    "remote":       "sony",
+    "repository":   "transpower",
     "target_path":  "hardware/sony/transpower",
-    "revision":     "android-10.0"
+    "revision":     "q-mr1"
   },
   {
     "remote":       "sony",
@@ -120,15 +132,15 @@
     "revision":     "aosp/LA.UM.7.3.r1"
   },
   {
-    "remote":       "omnirom",
+    "remote":       "sony",
     "repository":   "kernel-defconfig",
     "target_path":  "kernel/sony/msm/arch/arm64/configs/sony",
     "revision":     "aosp/LE.UM.2.3.2.r1.4"
   },
   {
-    "remote":       "omnirom",
-    "repository":   "android_packages_apps_ExtendedSettings",
+    "remote":       "sony",
+    "repository":   "packages_apps_ExtendedSettings",
     "target_path":  "packages/apps/ExtendedSettings",
-    "revision":     "android-10.0"
+    "revision":     "q-mr1"
   }
 ]
