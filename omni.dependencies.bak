@@ -1,0 +1,146 @@
+[
+  {
+    "remote":       "sony",
+    "repository":   "device-sony-common-headers",
+    "target_path":  "device/sony/common-headers",
+    "revision":     "aosp/LE.UM.2.3.2.r1.4"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "device-sony-sepolicy",
+    "target_path":  "device/sony/sepolicy",
+    "revision":     "q-m1-legacy"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "vendor-qcom-opensource-bluetooth",
+    "target_path":  "hardware/sony/bluetooth",
+    "revision":     "master"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "vendor-qcom-opensource-camera",
+    "target_path":  "hardware/sony/camera",
+    "revision":     "LA.UM.6.4.r1"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "vendor-sony-oss-cash",
+    "target_path":  "hardware/sony/cash",
+    "revision":     "q-mr1"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "vendor-qcom-opensource-dataservices",
+    "target_path":  "hardware/sony/dataservices",
+    "revision":     "q-mr1"
+  },
+  {
+    "remote":       "omnirom",
+    "repository":   "android_hardware_sony_audio",
+    "target_path":  "hardware/sony/audio",
+    "revision":     "android-9.0"
+  },
+  {
+    "remote":       "omnirom",
+    "repository":   "android_hardware_sony_bootctrl",
+    "target_path":  "hardware/sony/bootctrl",
+    "revision":     "android-9.0"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "hardware-qcom-display",
+    "target_path":  "hardware/sony/display-sde",
+    "revision":     "LA.UM.7.3.r1"
+  },
+  {
+    "remote":       "aosp",
+    "repository":   "platform/hardware/qcom/sdm845/gps",
+    "target_path":  "hardware/sony/gps",
+    "revision":     "qcom_sdm845"
+  },
+  {
+    "remote":       "omnirom",
+    "repository":   "android_hardware_sony_media",
+    "target_path":  "hardware/sony/media",
+    "revision":     "android-9.0"
+  },
+  {
+    "remote":       "omnirom",
+    "repository":   "android_hardware_sony_sdm845_media",
+    "target_path":  "hardware/sony/media/sdm845",
+    "revision":     "android-9.0"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "vendor-sony-oss-fingerprint",
+    "target_path":  "hardware/sony/fingerprint",
+    "revision":     "q-mr1"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "vendor-qcom-opensource-location",
+    "target_path":  "hardware/sony/location",
+    "revision":     "q-mr0"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "macaddrsetup",
+    "target_path":  "hardware/sony/macaddrsetup",
+    "revision":     "q-mr1"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "QcRilAm",
+    "target_path":  "hardware/sony/qcrilam",
+    "revision":     "q-mr1"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "timekeep",
+    "target_path":  "hardware/sony/timekeep",
+    "revision":     "q-mr1"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "transpower",
+    "target_path":  "hardware/sony/transpower",
+    "revision":     "q-mr1"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "kernel",
+    "target_path":  "kernel/sony/msm",
+    "revision":     "aosp/LE.UM.2.3.2.r1.4"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "vendor-qcom-opensource-wlan-fw-api",
+    "target_path":  "kernel/sony/msm/drivers/staging/wlan-qc/fw-api",
+    "revision":     "aosp/LA.UM.7.3.r1"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "vendor-qcom-opensource-wlan-qca-wifi-host-cmn",
+    "target_path":  "kernel/sony/msm/drivers/staging/wlan-qc/qca-wifi-host-cmn",
+    "revision":     "aosp/LA.UM.7.3.r1"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "vendor-qcom-opensource-wlan-qcacld-3.0",
+    "target_path":  "kernel/sony/msm/drivers/staging/wlan-qc/qcacld-3.0",
+    "revision":     "aosp/LA.UM.7.3.r1"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "kernel-defconfig",
+    "target_path":  "kernel/sony/msm/arch/arm64/configs/sony",
+    "revision":     "aosp/LE.UM.2.3.2.r1.4"
+  },
+  {
+    "remote":       "sony",
+    "repository":   "packages_apps_ExtendedSettings",
+    "target_path":  "packages/apps/ExtendedSettings",
+    "revision":     "q-mr1"
+  }
+]
