@@ -48,8 +48,5 @@ BOARD_INCLUDE_CMDLINE_TOOLS := true
 # TARGET_PROVIDES_DTBOIMAGE := true
 # BOARD_CUSTOM_DTBOIMG_MK := kernel/sony/msm-4.9/kernel
 
-# Omni config
-# $(call inherit-product, vendor/omni/config/common.mk)
-
 # Widevine DRM
 $(call inherit-product-if-exists, vendor/sony/widevine/widevine.mk)
