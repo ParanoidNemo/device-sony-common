@@ -15,7 +15,7 @@ MASTER_SIDE_CP_TARGET_LIST := msm8996 msm8998 sdm660 sdm845 sm8150
 
 audio-hal := hardware/qcom/audio
 gps-hal := hardware/qcom/sdm845/gps
-ipa-hal := hardware/qcom/sdm845/data/ipacfg-mgr
+ipa-hal := hardware/qcom/data/ipacfg-mgr/sdm845
 
 display-hal := hardware/qcom/display/sde
 
